@@ -1,0 +1,12 @@
+The Alphabet
+
+We are now going to train our AI:Bot to recite the 26 letters of the Alphabet from A to Z.
+To do so we will use the ASCII code which give a unique integer value to each character that appears on your keyboard, including the 26 uppercase letters of the alphabet.
+
+You can for instance try the following code to display the first three letters of the alphabet:
+
+# Using the ASCII code to display letters of the alphabet
+print(chr(65))
+print(chr(66))
+print(chr(67))
+ Combine the above code with a For loop to train your AI:Bot to recite the entire alphabet from A (ASCII code 65) to Z (ASCII code 90).
